@@ -118,12 +118,12 @@ if __name__ == '__main__':
 # windowSurface.fill(RED)
 
 # # setup alarm image
-# robber = pygame.image.load("intrusion.jpg").convert()
+# robber = pygame.image.load("demoimage_of_intrusion.jpg").convert()
 # robberrect = robber.get_rect()
 
 # # set up alarm sound
-# pygame.mixer.music.load("siren.mp3")
-# sound = pygame.mixer.Sound("alarm.mp3")
+# pygame.mixer.music.load("demo.mp3")
+# sound = pygame.mixer.Sound("Demo_alarm.mp3")
 
 # # draw a green polygon onto the surface
 # # pygame.draw.polygon(windowSurface, GREEN, ((146, 0), (291, 106), (236, 277), (56, 277), (0, 106)))
