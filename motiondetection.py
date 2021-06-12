@@ -3,7 +3,7 @@
 from __future__ import division
 
 """
-Created on Tue July 12  2021
+Created on Sat July 12  2021
 
 This script process video capture and attempt to detect motion on that video
 
